@@ -110,6 +110,10 @@ h3 {
     font-weight: 400;
 }
 
+.attribution a {
+    color: hsl(0, 36%, 70%);
+}
+
 /* EXTRA */
 
 .none {
