@@ -55,3 +55,4 @@ Still planning on actually sending live emails when a user signs up -- if intere
 
 - Frontend Mentor - [@Techkie-Creations](https://www.frontendmentor.io/profile/Techkie-Creations)
 - Codepen - [@Techkie-Creations](https://codepen.io/Tech--Guy)
+- LinkedIn - [@stefan-ngago](https://www.linkedin.com/in/stefan-ngago)
